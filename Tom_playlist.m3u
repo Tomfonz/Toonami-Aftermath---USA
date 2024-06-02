@@ -5,6 +5,12 @@ http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
 #EXTINF:-1 group-title="Toonami" tvg-id="Toonami Movies",Toonami Aftermath Movies
 http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
+#EXTINF:-1 group-title="Toonami" tvg-id="CartoonNetwork.us" tvg-name="Adult Swim East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/2560px-Adult_Swim_2003_logo.svg.png" group-title="Live Channels",Adult Swim East
+https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/AdultSwimEast.us.m3u8
+#EXTINF:-1 group-title="Toonami" tvg-id="CartoonNetworkPacific.us" tvg-name="Adult Swim West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/2560px-Adult_Swim_2003_logo.svg.png" group-title="Live Channels",Adult Swim West
+https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/AdultSwimWest.us.m3u8
+#EXTINF:-1 group-title="VentureBros VPN-USA" tvg-id="Venture Bros",The Venture Brothers 
+https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream_4.m3u8
 
 USA Channels:
 #EXTINF:-1 tvg-id="ABC 1.us" tvg-name="(ABC 1) New York City NY" tvg-logo="" group-title="LOCALS",(WABC) New York City NY
